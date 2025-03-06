@@ -32,4 +32,4 @@ To run this project, you need a web browser.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe-game.git
+   git clone https://github.com/AditiJadhav19/tic-tac-toe-game.git
